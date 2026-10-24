@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Primary",
+    "foreground": "#004F9E",
+    "background": "#FFFFFF",
+    "ratio": 8.0395,
+    "normalTextAA": true,
+    "meaningfulGraphicAA": true
+  },
+  {
+    "name": "Secondary",
+    "foreground": "#406BB2",
+    "background": "#FFFFFF",
+    "ratio": 5.2978,
+    "normalTextAA": true,
+    "meaningfulGraphicAA": true
+  },
+  {
+    "name": "Muted blue",
+    "foreground": "#758CC7",
+    "background": "#FFFFFF",
+    "ratio": 3.3163,
+    "normalTextAA": false,
+    "meaningfulGraphicAA": true
+  },
+  {
+    "name": "Accent",
+    "foreground": "#5CC4F2",
+    "background": "#FFFFFF",
+    "ratio": 1.9749,
+    "normalTextAA": false,
+    "meaningfulGraphicAA": false
+  },
+  {
+    "name": "Bad original",
+    "foreground": "#D23100",
+    "background": "#FFFFFF",
+    "ratio": 5.0243,
+    "normalTextAA": true,
+    "meaningfulGraphicAA": true
+  },
+  {
+    "name": "Neutral original",
+    "foreground": "#E59719",
+    "background": "#FFFFFF",
+    "ratio": 2.3939,
+    "normalTextAA": false,
+    "meaningfulGraphicAA": false
+  },
+  {
+    "name": "Good original",
+    "foreground": "#01CD0B",
+    "background": "#FFFFFF",
+    "ratio": 2.1564,
+    "normalTextAA": false,
+    "meaningfulGraphicAA": false
+  },
+  {
+    "name": "Warning text proposed",
+    "foreground": "#8A4B00",
+    "background": "#FFFFFF",
+    "ratio": 6.8025,
+    "normalTextAA": true,
+    "meaningfulGraphicAA": true
+  },
+  {
+    "name": "Success text proposed",
+    "foreground": "#176B34",
+    "background": "#FFFFFF",
+    "ratio": 6.5849,
+    "normalTextAA": true,
+    "meaningfulGraphicAA": true
+  },
+  {
+    "name": "Text proposed",
+    "foreground": "#242424",
+    "background": "#FFFFFF",
+    "ratio": 15.5229,
+    "normalTextAA": true,
+    "meaningfulGraphicAA": true
+  },
+  {
+    "name": "Text on accent",
+    "foreground": "#242424",
+    "background": "#5CC4F2",
+    "ratio": 7.8599,
+    "normalTextAA": true,
+    "meaningfulGraphicAA": true
+  }
+]

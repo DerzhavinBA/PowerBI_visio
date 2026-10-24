@@ -1,0 +1,116 @@
+[
+  {
+    "file": "Гантт_ТМХИ.pbiviz",
+    "bytes": 322315,
+    "sha256": "7628631d1b74b9be2f7173ec667a7fc54261d9554756ce0e793ad50caa46ec8e",
+    "entries": [
+      {
+        "path": "package.json",
+        "bytes": 781
+      },
+      {
+        "path": "resources/",
+        "bytes": 0
+      },
+      {
+        "path": "resources/ganttTMHI.pbiviz.json",
+        "bytes": 1432546
+      },
+      {
+        "path": "THIRD-PARTY-NOTICES.txt",
+        "bytes": 2298
+      }
+    ]
+  },
+  {
+    "file": "Таблица проектов (ТМХИ).pbix",
+    "bytes": 972741,
+    "sha256": "9b89330cd1237cf0c70ce46f44390c215e504173e880aa3ee1f964e413065bf9",
+    "entries": [
+      {
+        "path": "Version",
+        "bytes": 8
+      },
+      {
+        "path": "[Content_Types].xml",
+        "bytes": 786
+      },
+      {
+        "path": "DiagramLayout",
+        "bytes": 8124
+      },
+      {
+        "path": "Report/Layout",
+        "bytes": 3097448
+      },
+      {
+        "path": "Settings",
+        "bytes": 324
+      },
+      {
+        "path": "Metadata",
+        "bytes": 194
+      },
+      {
+        "path": "Report/LinguisticSchema",
+        "bytes": 2068
+      },
+      {
+        "path": "Connections",
+        "bytes": 248
+      },
+      {
+        "path": "Report/CustomVisuals/NetworkNavigator1550434005853/package.json",
+        "bytes": 1355
+      },
+      {
+        "path": "Report/CustomVisuals/NetworkNavigator1550434005853/resources/icon.svg",
+        "bytes": 1924
+      },
+      {
+        "path": "Report/CustomVisuals/NetworkNavigator1550434005853/resources/project.js",
+        "bytes": 345517
+      },
+      {
+        "path": "Report/CustomVisuals/NetworkNavigator1550434005853/resources/project.css",
+        "bytes": 2692
+      },
+      {
+        "path": "Report/CustomVisuals/adwiseV1/package.json",
+        "bytes": 590
+      },
+      {
+        "path": "Report/CustomVisuals/adwiseV1/resources/adwiseVisual73804AE4264848C8BCD67A31A0791911.pbiviz.json",
+        "bytes": 1393942
+      },
+      {
+        "path": "Report/CustomVisuals/htmlContent443BE3AD55E043BF878BED274D3A6855/package.json",
+        "bytes": 622
+      },
+      {
+        "path": "Report/CustomVisuals/htmlContent443BE3AD55E043BF878BED274D3A6855/resources/htmlContent443BE3AD55E043BF878BED274D3A6855.pbiviz.json",
+        "bytes": 635939
+      },
+      {
+        "path": "Report/StaticResources/RegisteredResources/TMH_ENG_theme9073387334677514.json",
+        "bytes": 5089
+      },
+      {
+        "path": "Report/StaticResources/RegisteredResources/_______36728662581626303.PNG",
+        "bytes": 121635
+      },
+      {
+        "path": "Report/StaticResources/RegisteredResources/__________48577992164786266.png",
+        "bytes": 31268
+      },
+      {
+        "path": "Report/StaticResources/SharedResources/BaseThemes/CY23SU08.json",
+        "bytes": 5635
+      },
+      {
+        "path": "SecurityBindings",
+        "bytes": 274
+      }
+    ]
+  }
+]

@@ -1,0 +1,203 @@
+{
+  "visual": {
+    "name": "ganttTMHI",
+    "displayName": "Гантт_ТМХИ",
+    "guid": "ganttTMHI84F997DD65FE42E9AAE536431246AB90",
+    "visualClassName": "GanttTMHI",
+    "version": "1.5.1.0",
+    "description": "Гантт_ТМХИ. Автор доработанной версии: Державин Б.А. На основе ADWISE Gantt 3.1.3.0; сведения об исходном компоненте — в THIRD-PARTY-NOTICES.txt.",
+    "supportUrl": "https://www.adwise.cz/adwise-roadmap/?lang=en",
+    "gitHubUrl": "https://github.com/MartinRKrupa/adwiseRoadmap"
+  },
+  "apiVersion": "4.7.0",
+  "js_chars": 960919,
+  "css_chars": 164430,
+  "stringResources": {},
+  "externalJS": [],
+  "objects": {
+    "tmhiCurrent": {
+      "displayName": "Текущее состояние",
+      "propertyCount": 5
+    },
+    "tmhiLevel": {
+      "displayName": "Маркеры уровней",
+      "propertyCount": 10
+    },
+    "tmhiSort": {
+      "displayName": "Сортировка уровней",
+      "propertyCount": 4
+    },
+    "tmhiCalendar": {
+      "displayName": "Подписи времени",
+      "propertyCount": 43
+    },
+    "tmhiPanel": {
+      "displayName": "Меню видимости и фильтров",
+      "propertyCount": 10
+    },
+    "licenseNo": {
+      "displayName": "Лицензирование",
+      "propertyCount": 3
+    },
+    "sorting": {
+      "displayName": "Сортировка",
+      "propertyCount": 2
+    },
+    "zooming": {
+      "displayName": "Масштаб и положение",
+      "propertyCount": 11
+    },
+    "labels": {
+      "displayName": "Подписи и подсказки",
+      "propertyCount": 16
+    },
+    "textValues": {
+      "displayName": "Полосы работ",
+      "propertyCount": 31
+    },
+    "milestones": {
+      "displayName": "Вехи",
+      "propertyCount": 19
+    },
+    "leftAxis": {
+      "displayName": "Строки и левая ось",
+      "propertyCount": 58
+    },
+    "xAxeFormat": {
+      "displayName": "Шкала времени",
+      "propertyCount": 31
+    },
+    "groups": {
+      "displayName": "Проекты",
+      "propertyCount": 19
+    },
+    "subgroups": {
+      "displayName": "Подгруппы",
+      "propertyCount": 17
+    },
+    "additionalColumn": {
+      "displayName": "Дополнительный столбец",
+      "propertyCount": 17
+    },
+    "legend": {
+      "displayName": "Легенда",
+      "propertyCount": 11
+    },
+    "enableTooltip": {
+      "displayName": "Информационная панель",
+      "propertyCount": 5
+    },
+    "groupColors": {
+      "displayName": "Цвета проектов",
+      "propertyCount": 124
+    },
+    "msColorCategories": {
+      "displayName": "Категории вех",
+      "propertyCount": 60
+    },
+    "colorCategories": {
+      "displayName": "Цвета категорий работ",
+      "propertyCount": 32
+    },
+    "msColorRanges": {
+      "displayName": "Диапазоны цветов вех",
+      "propertyCount": 16
+    },
+    "colorRanges": {
+      "displayName": "Диапазоны цветов работ",
+      "propertyCount": 16
+    },
+    "todayLine": {
+      "displayName": "Линия сегодняшней даты",
+      "propertyCount": 10
+    },
+    "targetLine": {
+      "displayName": "Целевые даты и интервалы",
+      "propertyCount": 11
+    },
+    "targetCategoryColors": {
+      "displayName": "Цвета целевых категорий",
+      "propertyCount": 62
+    },
+    "categoryMap": {
+      "displayName": "Сопоставление категорий",
+      "propertyCount": 7
+    },
+    "wrapping": {
+      "displayName": "Сворачивание уровней",
+      "propertyCount": 1
+    },
+    "tmhi": {
+      "displayName": "Настройки графика",
+      "propertyCount": 1
+    }
+  },
+  "literalProbes": {
+    "createSelectionManager": {
+      "literal_occurrences": 1,
+      "first_offset": 20830,
+      "first_context": ")(this.host.tooltipService,e.element),this.selectionManager=this.host.createSelectionManager(),this.firstUpdateAfterConstructor=!0}hideAllGraphElements(){this.svg.style(\"display\",\"none\"),this.svg.node().style.display=\"none\",this.contentSvg.node().style.display=\"none\",this"
+    },
+    "applyJsonFilter": {
+      "literal_occurrences": 0,
+      "first_offset": null,
+      "first_context": null
+    },
+    "getFormattingModel": {
+      "literal_occurrences": 0,
+      "first_offset": null,
+      "first_context": null
+    },
+    "enumerateObjectInstances": {
+      "literal_occurrences": 5,
+      "first_offset": 152143,
+      "first_context": "Id=null,this.updateImmediate(e,!0)}),1e3),this.updateImmediate(e,!1))}enumerateObjectInstances(e){return(0,i.b)(e,this.viewModel.settings)}getTooltipSelectionId(e){return e.selectionId}getTooltipDateTimeFormat(){let e=\"\";const t=this.viewModel.settings.infoPanelDateFormat,n"
+    },
+    "isHighContrast": {
+      "literal_occurrences": 0,
+      "first_offset": null,
+      "first_context": null
+    },
+    "persistProperties": {
+      "literal_occurrences": 11,
+      "first_offset": 5203,
+      "first_context": "ooming\",properties:{horizontalZoomPeriod:e},selector:null}],this.host.persistProperties(t)}zoomPeriodOut(){const e=[\"H\",\"D\",\"W\",\"M\",\"Q\",\"Y\"],t=e.indexOf(this.hZoomPeriod),n=e.indexOf(this.viewModel.settings.hZoomMin);t!=e.length-1&&t<n&&(this.hZoomPeriod=e[t+1],this."
+    },
+    "fetchMoreData": {
+      "literal_occurrences": 0,
+      "first_offset": null,
+      "first_context": null
+    },
+    "tooltipService": {
+      "literal_occurrences": 10,
+      "first_offset": 20732,
+      "first_context": "his.constructHTMLFormElements(e),this.events=e.host.eventService,this.tooltipServiceWrapper=(0,a.p)(this.host.tooltipService,e.element),this.selectionManager=this.host.createSelectionManager(),this.firstUpdateAfterConstructor=!0}hideAllGraphElements(){this.svg.sty"
+    },
+    "keydown": {
+      "literal_occurrences": 1,
+      "first_offset": 932700,
+      "first_context": "n,input,summary')?.focus()};\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n   zone.addEventListener('keydown',e=>{if(e.key==='Escape'){hide(true);trigger.focus();e.stopPropagation()}});\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n   const gearButton=element.querySelector('.tmhi-settings-button');const gearClick=()=>"
+    },
+    "tmhiCalendar": {
+      "literal_occurrences": 4,
+      "first_offset": 949574,
+      "first_context": "umType([['asc','По возрастанию'],['desc','По убыванию']]))}},\r\n\r\n\r\n\r\n tmhiCalendar:{displayName:'Подписи времени',properties:{mode:prop('Режим подписей',enumType([['ru','Русские'],['custom','Свои']])),quarter:prop('Квартал',txt,'Пример: {номер} кв.'),week:prop('"
+    },
+    "tmhiPanel": {
+      "literal_occurrences": 4,
+      "first_offset": 949907,
+      "first_context": "),fiscalYear:prop('Финансовый год',txt,'Пример: ФГ {год}')}},\r\n\r\n\r\n\r\n tmhiPanel:{displayName:'Меню видимости и фильтров',properties:{enabled:prop('Включить меню',bool),mode:prop('Отображение',enumType([['hover','При наведении на правый верхний угол'],['always"
+    },
+    "currentStateOffset": {
+      "literal_occurrences": 2,
+      "first_offset": 907564,
+      "first_context": "& c.source.roles[name]);\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n        const offsets = role('currentStateOffset');\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n        if (!offsets) return result;\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n        const groups = cats.filter(c => c.source.roles && c.source.roles.groups)\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n            ."
+    },
+    "hierarchyMarkerOffset": {
+      "literal_occurrences": 2,
+      "first_offset": 893290,
+      "first_context": " markers=[],warnings=[],groups=columns(d,'groups'),offsets=columns(d,'hierarchyMarkerOffset')[0],colors=columns(d,'hierarchyMarkerColor')[0];\r\n\r\n if(s.enabled===false)return {markers,warnings};if(!offsets)return {markers,warnings:s.field?['Маркер: добавьте числовое поле "
+    }
+  },
+  "probeLimit": "Literal matches are static evidence, not runtime behavior or proof of absence."
+}
