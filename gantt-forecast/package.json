@@ -1,0 +1,20 @@
+{
+  "name": "tmhi-gantt-forecast",
+  "version": "1.6.3",
+  "private": true,
+  "description": "Восстановленный сборочный проект Гантт ТМХИ; не оригинальные TypeScript-исходники",
+  "scripts": {
+    "test": "node --test tests/*.test.cjs",
+    "baseline": "python3 scripts/baseline.py",
+    "build": "node scripts/build.cjs",
+    "pretest": "npm run build",
+    "verify": "node scripts/verify.cjs",
+    "preview": "node scripts/preview.cjs"
+  },
+  "devDependencies": {
+    "jsdom": "26.1.0",
+    "powerbi-visuals-api": "5.1.0",
+    "powerbi-visuals-tools": "7.2.1",
+    "powerbi-visuals-utils-dataviewutils": "6.1.0"
+  }
+}

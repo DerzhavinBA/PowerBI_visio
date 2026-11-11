@@ -1,0 +1,23 @@
+{
+  "visual": {
+    "name": "ganttTMHI",
+    "displayName": "Гантт_ТМХИ",
+    "guid": "ganttTMHI84F997DD65FE42E9AAE536431246AB90",
+    "visualClassName": "GanttTMHI",
+    "version": "1.6.3.0",
+    "description": "Гантт_ТМХИ. Автор доработанной версии: Державин Б.А. На основе ADWISE Gantt 3.1.3.0; сведения об исходном компоненте — в THIRD-PARTY-NOTICES.txt.",
+    "supportUrl": "https://www.adwise.cz/adwise-roadmap/?lang=en",
+    "gitHubUrl": "https://github.com/MartinRKrupa/adwiseRoadmap"
+  },
+  "author": {
+    "name": "Державин Б.А.",
+    "email": ""
+  },
+  "apiVersion": "5.1.0",
+  "style": "style/visual.less",
+  "assets": {
+    "icon": "assets/icon.png"
+  },
+  "externalJS": [],
+  "capabilities": "capabilities.json"
+}

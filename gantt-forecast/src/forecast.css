@@ -1,0 +1,11 @@
+.forecast-warning { position:absolute; right:8px; bottom:8px; z-index:1001; max-width:360px; padding:6px 10px; border:1px solid #8A4B00; border-radius:4px; background:#fff; color:#242424; font:12px Calibri, 'Segoe UI', sans-serif; }
+.forecast-warning[hidden] { display:none; }
+.forecast-warning div { white-space:pre-line; max-height:160px; overflow:auto; margin-top:8px; }
+.forecast-warning summary:focus-visible { outline:2px solid #004F9E; outline-offset:2px; }
+@media (forced-colors:active) { .forecast-warning { color:CanvasText; background:Canvas; border-color:CanvasText; } }
+.forecast { cursor:pointer; }
+
+.tmhi-reset-settings { position:absolute; bottom:6px; left:8px; z-index:1000; max-width:calc(100% - 16px); padding:5px 8px; border:1px solid currentColor; border-radius:4px; background:#fff; color:#004F9E; font:12px Calibri,'Segoe UI',sans-serif; cursor:pointer; }
+.tmhi-reset-settings[hidden] { display:none; }
+.tmhi-reset-settings:focus-visible { outline:2px solid currentColor; outline-offset:2px; }
+@media (forced-colors:active) { .tmhi-reset-settings { color:ButtonText; background:ButtonFace; } }

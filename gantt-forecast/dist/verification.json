@@ -1,0 +1,11 @@
+{
+  "package": "dist/Гантт_ТМХИ_1.6.3.0.pbiviz",
+  "sha256": "f65912d00eda5a948cb6e548f18d042c423ca9fac1f2813cf95c387b18404bf6",
+  "originalSHA256": "7628631d1b74b9be2f7173ec667a7fc54261d9554756ce0e793ad50caa46ec8e",
+  "originalUnchanged": true,
+  "vendorJavaScriptUnchanged": true,
+  "legacyRolesAndObjectsUnchanged": true,
+  "syntax": "PASS",
+  "apiVersion": "5.1.0",
+  "powerBIHost": "NOT RUN"
+}
